@@ -1,0 +1,9 @@
+{
+  "name": "A",
+  "version": "1.0.0",
+  "private": true,
+  "exports": {
+    "./*": "./dist/*.js",
+    "./*.js": "./dist/*.js"
+  }
+}
